@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/nidhirathour](https://github.com/nidhirathour)
 
-<img align="left" alt="coding" width="100%" height="350" src= "https://media.istockphoto.com/id/903044512/vector/user-icon-vector-with-laptop-computer-female-person-profile-avatar-for-business-and-online.jpg?s=612x612&w=0&k=20&c=iLtKPgwQGblmh9pOgJxVDepyCYyxYnV29j5WEP28rOo=" >
+<img align="left" alt="coding" width="60%" height="350" src= "https://media.istockphoto.com/id/903044512/vector/user-icon-vector-with-laptop-computer-female-person-profile-avatar-for-business-and-online.jpg?s=612x612&w=0&k=20&c=iLtKPgwQGblmh9pOgJxVDepyCYyxYnV29j5WEP28rOo=" >
 
 - 💬 Ask me about **React, Javascript, Html, Css **
 
