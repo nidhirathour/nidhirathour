@@ -1,28 +1,30 @@
 <!-- [![](https://kinsta.com/wp-content/uploads/2023/02/github-pages-1024x512.jpg)](https://nidhirathour.github.io) -->
-<img align="left" alt="coding" width="100%" height="350" src="https://kinsta.com/wp-content/uploads/2023/02/github-pages-1024x512.jpg" >
+<img align="left" alt="coding" width="100%" height="350" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmrbHXNqFNQh1b1V0QtpC_Qf7dm1US2B2ECIfYltsCTNGj8sCgjawrPBVUINdObCJjx60&usqp=CAU" >
+
 <h1 align="center">Hi 👋, I'm Nidhi Rathour</h1>
 <h3 align="center">I had completed my graduation in 2021 with branch Information Technology (IT) in Bachelors of Technology . Currently I am upskilling myself by exploring some new technologies. Also, I am working on Javascript now-a-days and improving my front-end development skills.</h3>
-
-<img align="left" alt="coding" width="300" src= "https://kinsta.com/wp-content/uploads/2023/02/github-pages-1024x512.jpg">
-
+<img align="right" alt="Coading" width="400" src="https://cdnb.artstation.com/p/assets/images/images/007/854/263/original/rothana-chhourm-ezgif-com-resize-4.gif?1508943159">
 
 
-- 🌱 I’m currently learning **Javascript, DSA, Full Stack Web Development**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nidhirathour&label=Profile%20views&color=0e75b6&style=flat" alt="nidhirathour" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/nidhirathour](https://github.com/nidhirathour)
+- 🌱 I’m currently learning **Javascript, DSA, Full Stack Web Development** 
 
-<img align="left" alt="coding" width="60%" height="350" src= "https://media.istockphoto.com/id/903044512/vector/user-icon-vector-with-laptop-computer-female-person-profile-avatar-for-business-and-online.jpg?s=612x612&w=0&k=20&c=iLtKPgwQGblmh9pOgJxVDepyCYyxYnV29j5WEP28rOo=" >
-
-- 💬 Ask me about **React, Javascript, Html, Css **
+- 💬 Ask me about **React, Javascript, Html, Css**
 
 - 📫 How to reach me **nidhirathour78@gmail.com**
 
-- ⚡ Embrace challenges in web development as stepping stones to innovation and growth.🤩**
-
-- ⚡ Positive thinking fuels creative coding and paves the way for exceptional web development.🤩**
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/nidhirathour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nidhirathour" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/nidhirathour78" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="nidhirathour78" height="30" width="40" /></a>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nidhirathour&show_icons=true&locale=en&layout=compact" alt="nidhirathour" /></p>
 
-- ⚡ Let positivity drive your web development journey on GitHub, and success will be your constant companion.🤩**
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nidhirathour&show_icons=true&locale=en" alt="nidhirathour" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nidhirathour&" alt="nidhirathour" /></p>
