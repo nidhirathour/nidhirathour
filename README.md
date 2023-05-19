@@ -1,5 +1,5 @@
 <!-- [![](https://kinsta.com/wp-content/uploads/2023/02/github-pages-1024x512.jpg)](https://nidhirathour.github.io) -->
-<img align="left" alt="coding" width="100%" height="200" src="https://cdn.dribbble.com/users/1920348/screenshots/4332641/shot09.gif" >
+<img align="left" alt="coding" width="100%" height="400" src="https://cdn.dribbble.com/users/1920348/screenshots/4332641/shot09.gif" >
 
 <h1 align="center">Hi 👋, I'm Nidhi Rathour</h1>
 <h3 align="center">I had completed my graduation in 2021 with branch Information Technology (IT) in Bachelors of Technology . Currently I am upskilling myself by exploring some new technologies. Also, I am working on Javascript now-a-days and improving my front-end development skills.</h3>
