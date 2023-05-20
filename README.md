@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Nidhi Rathour</h1>
 <h3 align="center">I had completed my graduation in 2021 with branch Information Technology (IT) in Bachelors of Technology . Currently I am upskilling myself by exploring some new technologies. Also, I am working on Javascript now-a-days and improving my front-end development skills.</h3>
-<img align="right" alt="Coading" width="250" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
+<img align="right" alt="Coading" width="300" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nidhirathour&label=Profile%20views&color=0e75b6&style=flat" alt="nidhirathour" /> </p>
