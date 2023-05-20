@@ -1,9 +1,9 @@
 <!-- [![](https://kinsta.com/wp-content/uploads/2023/02/github-pages-1024x512.jpg)](https://nidhirathour.github.io) -->
-<img align="left" alt="coding" width="100%" height="400" src="https://i.pinimg.com/236x/e4/92/66/e49266b020eb9e125f4bc87503414444.jpg">
+<img align="left" alt="coding" width="100%" height="400" src="https://cdn.dribbble.com/users/1920348/screenshots/4332641/shot09.gif">
 
 <h1 align="center">Hi 👋, I'm Nidhi Rathour</h1>
 <h3 align="center">I had completed my graduation in 2021 with branch Information Technology (IT) in Bachelors of Technology . Currently I am upskilling myself by exploring some new technologies. Also, I am working on Javascript now-a-days and improving my front-end development skills.</h3>
-<img align="right" alt="Coading" width="300" src="https://cdn.dribbble.com/users/1920348/screenshots/4332641/shot09.gif">
+<img align="right" alt="Coading" width="300" src="https://media.tenor.com/haqZV8e8p-wAAAAC/working-work.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nidhirathour&label=Profile%20views&color=0e75b6&style=flat" alt="nidhirathour" /> </p>
